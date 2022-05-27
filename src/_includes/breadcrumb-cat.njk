@@ -1,8 +1,14 @@
 <nav id="breadcrumbs">
 <span class="archive--title">
-{%- if tags == "blogPages" %} 
-<a href="/blog/">Blog</a> »
+{%- if tags == "technologyPages" %} 
+<a href="/technology/">technology</a> »
+{%- elif tags == 'bikingPages' -%}
+<a href="/biking/">biking</a> »
 {%- endif -%}
+
+
+
+
 {%- if tag == "blog-page" %} 
  <h1 class="cat--title">Recent Blog Posts</h1>
 {%- endif -%}

@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
   });
   //Post Summary Limit
   eleventyConfig.addFilter("limit", function (arr, limit) {
-    return arr.slice(1, limit);
+    return arr.slice(0, limit);
   });
   // remove snippet from build
   eleventyConfig.setBrowserSyncConfig({
