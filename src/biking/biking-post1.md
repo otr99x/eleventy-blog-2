@@ -1,8 +1,8 @@
 ---
-title: First biking Post
+title: Summit of Cox Hill
 date: 2019-03-11
-image: /assets/blog/design2seo-11ty-theme.jpg
-imageAlt: I'm baby fashion axe swag actually, retro man
-description: I'm baby fashion axe swag actually, retro man bun migas photo booth palo santo. Unicorn chillwave pork belly put a bird on it selvage gastropub celiac migas gochujang pour-over locavore keytar man braid sustainable shabby chic.
+image: /assets/images/biking-joe.jpg
+imageAlt: biking is cool
+description: Summit of Cox Hill Description
 ---
-biking post description
+We rode to the summit of Cox Hill today
